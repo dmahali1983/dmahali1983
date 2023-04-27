@@ -26,6 +26,14 @@ Familiar in ML and AI algorithms and statistical analysis.
 </p>
 
 
+### Experience
+
+14+ years into the IT industry with Software Development , Application Support, Project Planning and Management. Energetic and result oriented self improving / Learning candidate.
+3+ years of experience in the Analytics vertical with good expertise on various Machine learning & Statistical techniques implementation.
+
+Project Areas: Predictive Modeling, Text Analytics, Image Processing.
+
+
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/DhanabalanMahalingam" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/DhanabalanMahalingam" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
