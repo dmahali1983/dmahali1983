@@ -50,5 +50,4 @@ Applied Data Science Lab - WorldQuant University<br />
 Machine Learning Engineering Bootcamp - WeCloudData<br />
 
 ## 📫 Contact
-Email: dhanabalan.mlanalyst@gmail.com<br />
-LinkedIn: <a href="www.linkedin.com/in/dhanabalan-mahalingam"> linkedin.com/in/dhanabalan-mahalingam/ </a>
+Email: dhanabalan.mlanalyst@gmail.com | <a href="https://www.linkedin.com/in/dhanabalan-mahalingam">LinkedIn</a>
