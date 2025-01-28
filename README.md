@@ -45,8 +45,9 @@ Description: An analysis and model to predict credit card approval decisions bas
 Technologies: Python, Scikit-learn
 
 ## 📜 Certifications
-Data Science Professional Certificate from IBM
-Machine Learning Certification from Coursera
+Microsoft Certified: Azure Data Scientist Associate
+Applied Data Science Lab - WorldQuant University
+Machine Learning Engineering Bootcamp - WeCloudData
 📈 GitHub Stats
 
 ## 📫 Contact
