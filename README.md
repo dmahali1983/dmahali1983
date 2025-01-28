@@ -45,11 +45,10 @@ Description: An analysis and model to predict credit card approval decisions bas
 Technologies: Python, Scikit-learn
 
 ## 📜 Certifications
-Microsoft Certified: Azure Data Scientist Associate
-Applied Data Science Lab - WorldQuant University
-Machine Learning Engineering Bootcamp - WeCloudData
-📈 GitHub Stats
+Microsoft Certified: Azure Data Scientist Associate<br />
+Applied Data Science Lab - WorldQuant University<br />
+Machine Learning Engineering Bootcamp - WeCloudData<br />
 
 ## 📫 Contact
-Email: dmahali1983@example.com
-LinkedIn: linkedin.com/in/dhanabalan-mahalingam/
+Email: dhanabalan.mlanalyst@gmail.com<br />
+LinkedIn: <a href="www.linkedin.com/in/dhanabalan-mahalingam"> linkedin.com/in/dhanabalan-mahalingam/ </a>
