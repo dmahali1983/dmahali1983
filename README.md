@@ -1,7 +1,7 @@
 # 👨‍💻 Dhanabalan Mahalingam
 Data Scientist | Machine Learning Engineer | MLOps Enthusiast
 
-Stamford, CT
+Chennai, Tamil Nadu, India
 
 ## 🛠️ Technical Skills
  - Programming Languages: Python, R, pyspark
