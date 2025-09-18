@@ -1,5 +1,5 @@
 # 👨‍💻 Dhanabalan Mahalingam
-Data Scientist | Machine Learning Engineer | MLOps Enthusiast
+Data Scientist | Machine Learning Engineer | MLOps Enthusiast | Project Management & Delivery | Stakeholder Management
 
 Chennai, Tamil Nadu, India
 
