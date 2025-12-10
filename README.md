@@ -5,10 +5,14 @@ Chennai, Tamil Nadu, India
 
 ## 🛠️ Technical Skills
  - Programming Languages: Python, R, pyspark
- - Machine Learning & Deep Learning: Scikit-learn, TensorFlow, Keras, pytorch
+ - Data Science & Machine Learning: Statistical Modeling, Regression, Classification, Clustering, Anomaly Detection, A/B Testing, Tree-Based Algorithms, AutoML
+ - AI & Deep Learning: BERT, GPT-2, CNNs, GANs, Transformers, ResNet, Autoencoders, Hugging Face Transformers, spaCy, NLTK, Llama 2, Open AI, Agentic AI (Crew AI, Autogen)
  - Data Visualization: Matplotlib, Seaborn, Tableau
- - MLOps: AWS SageMaker, Docker, kubernetes, mlflow
- - Tools & Technologies: Jupyter Notebook, Git, Databricks
+ - Cloud Platforms: AWS (EC2, S3, Lambda, Redshift, SageMaker), Azure (Azure ML,  Azure Data Lake, Azure Delta Tables)
+ - Big Data Technologies: PySpark, Databricks
+ - Databases: PostgreSQL, MongoDB, Vector Databases (e.g., Pinecone, FAISS, Chroma)
+ - Containerization & DevOps: Docker, Kubernetes, CI/CD (Jenkins, GitLab CI), Cloud Formation, MLFlow 
+
 ## 📂 Featured Projects
 ### <a href="https://github.com/dmahali1983/Insurance_Risk_Analysis_RAG">1. Insurance_Risk_Analysis_RAG</a>
 Description: A Retrieval-Augmented Generation (RAG) system designed for insurance risk analysis, leveraging NLP, machine learning, and deep learning techniques.
